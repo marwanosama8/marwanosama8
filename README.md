@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate back-end developer specializing i
 - Programming Languages: PHP
 - Frameworks: Laravel
 - Front-end: Vue.js
-- Other Tools and Packages: [Tailwind CSS, Bootstrap 5, Websockets, Filament]
+- Other Tools and Packages: [ "Livewire", "Tailwind CSS", "Bootstrap 5", "Websockets", "Filament", "Firebase", "Pusher", "Laravel Echo"]
 
 ## 🚀 Some Of My Projects
 
