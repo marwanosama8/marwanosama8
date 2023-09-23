@@ -31,7 +31,7 @@ The tech industry is ever-evolving, and I strive to stay up-to-date with the lat
 
 I'm always excited to collaborate on interesting projects and connect with fellow developers. Feel free to reach out to me through the following channels:
 
-- Email: [marwan.osama8888@gmail.com]
+- Email: [info@devmarwan.codes]
 
 
 Let's create amazing web solutions together! Connect with me and explore my repositories for more exciting projects. 💻
