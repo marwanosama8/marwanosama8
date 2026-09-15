@@ -1,37 +1,117 @@
-# Hello, I'm Marwan Osama! 👋
+<h1 align="center">Hi, I'm Marwan Mansour 👋</h1>
+<h3 align="center">Backend Engineer & Laravel Architect — building AI-powered products & agentic automations</h3>
 
-Welcome to my GitHub profile! I'm a passionate back-end developer specializing in PHP and the Laravel framework. I enjoy leveraging these technologies to build innovative web applications and APIs for mobile applications. I also love using Vue.js to create user-friendly and high-performance Single Page Applications (SPAs).
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+%26+Laravel+Architect;AI+Automation+%2F+Agentic+AI+Builder;LangChain+%2B+Gemini+%2B+n8n;Multi-Tenant+SaaS+%26+Event-Driven+Systems" alt="Typing SVG" />
+</p>
 
-## 🔧 Technologies and Tools
+---
 
-- Programming Languages: PHP
-- Frameworks: Laravel
-- Front-end: Vue.js
-- Other Tools and Packages: [ "Livewire", "Tailwind CSS", "Bootstrap 5", "Websockets", "Filament", "Firebase", "Pusher", "Laravel Echo"]
+### 🧠 About Me
 
-## 🚀 Some Of My Projects
+I'm a backend software engineer and Laravel architect with 4+ years of experience designing and shipping production systems — from multi-tenant SaaS platforms to event-driven architectures. Right now I'm deep in **AI automation and agentic AI**: building autonomous agents with **LangChain** and **Gemini**, and shipping real AI-powered products from prototype to production.
 
-- [product-dashboard](https://github.com/marwanosama8888/product-dashboard): A dashboard for managing products in stores, made with the Filament package.
-- [laravel-ecommerce](https://github.com/marwanosama8888/laravel-ecommerce): An e-commerce application for buying products, with a back dashboard for product management.
-- [xlansys](https://github.com/marwanosama8888/xlansys): A landing page website for a tech company, built with Livewire and Bootstrap.
-- [ajebah](https://github.com/marwanosama8888/ajebah): A front-end website for a tech company made with Tailwind CSS.
-- [survey](https://github.com/marwanosama8888/survey): A single-page application for creating surveys, designed for franchises like KFC, built with Vue.js and Tailwind CSS.
-- [LaravelWorldCitiesAndCountries](https://github.com/marwanosama8888/LaravelWorldCitiesAndCountries): A repository to assist Laravel developers in gathering data for cities, countries, location, phone numbers, and codes. It's incredibly useful for any new Laravel application.
-- [Laravel-Chat-Application](https://github.com/marwanosama8888/Laravel-Chat-Application): A chat application made with Vue.js and Laravel, featuring WebSocket Pusher and Laravel Echo.
+- 🔭 Currently building **AI agentic systems, automation pipelines, and AI-powered SaaS products**
+- 🌱 Currently leveling up in **LangChain, agentic architectures, and workflow automation with n8n**
+- 🛠️ Specialize in **multi-tenant SaaS systems, event-driven architecture, and Filament-powered admin systems**
+- ☁️ Comfortable across the full stack — from cloud/backend infrastructure and DevOps down to frontend
+- 🗣️ Communicate fluently in **English & Arabic**
 
-## 💡 Expertise
+---
 
-I consider myself at a mid-level proficiency in Laravel, constantly seeking new challenges and opportunities to expand my knowledge. I'm passionate about learning new techniques and discovering Laravel tricks that enhance my development efficiency.
+### 🚀 Live Projects
 
-## 🌱 Always Learning
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 <a href="https://traivis.com/">Traivis Learning Platform</a></h4>
+      A next-generation creator-focused learning platform enabling instructors to build, monetize, and grow online academies with AI-powered course creation and automated learning workflows.
+      <ul>
+        <li>AI course builder that turns raw content into structured courses & quizzes</li>
+        <li>Full academy infrastructure: video hosting, media libraries, learning paths</li>
+        <li>Community feeds, follower growth & engagement systems</li>
+        <li>Gamification: karma points, leaderboards, student rewards</li>
+        <li>Creator monetization: coupons, automation workflows, revenue tools</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛍️ <a href="https://shoppilot.ca/">ShopPilot</a></h4>
+      An AI-powered store operations platform for shop owners — going beyond a Wix-style storefront to solve real operational problems small businesses struggle to access or adopt.
+      <ul>
+        <li>Ticket & invoice management built for real-world shop workflows</li>
+        <li>Multi-tenant architecture, ready to onboard multiple shops</li>
+        <li>Role-based permissions (owner / reception / technician)</li>
+        <li>Built with Laravel, Filament, and a focus on fast, extensible delivery</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ <a href="https://github.com/marwan-mansour1/soc_ai_agent">AI SOC Analyst Security Platform</a></h4>
+      An autonomous AI-powered Security Operations Center platform connecting real enterprise security telemetry with intelligent threat analysis via Gemini-powered agents.
+      <ul>
+        <li>Real-time pipeline: Windows telemetry → Wazuh SIEM → AI threat analysis</li>
+        <li>Gemini-powered SOC agent for classification, investigation & response</li>
+        <li>Model Context Protocol (MCP) architecture decoupling agents from security infra</li>
+        <li>Alert pipeline with severity filtering, semantic dedup & rate limiting</li>
+        <li>Automated structured incident report generation</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>✨ More on the way</h4>
+      Always shipping — new AI agentic tools and automation-first products are in active development. Check back soon, or explore my pinned repos below.
+    </td>
+  </tr>
+</table>
 
-The tech industry is ever-evolving, and I strive to stay up-to-date with the latest trends and advancements. Learning is a continuous journey for me, and I'm committed to sharpening my skills in PHP, Laravel, and other related technologies.
+---
 
-## 🤝 Let's Connect!
+### 🧰 Tech Stack
 
-I'm always excited to collaborate on interesting projects and connect with fellow developers. Feel free to reach out to me through the following channels:
+**Languages**
 
-- Email: [info@devmarwan.codes]
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
+**Frameworks & Platforms**
 
-Let's create amazing web solutions together! Connect with me and explore my repositories for more exciting projects. 💻
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuejs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
+
+**AI / Automation**
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+**Infra & Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/marwan-mansour1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:marwan@marwanmansour.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- add your LinkedIn / portfolio badges here -->
+</p>
+
+<p align="center"><i>Open to backend & AI automation opportunities — always building, always learning.</i></p>
